@@ -7,7 +7,7 @@ import Iter "mo:base/Iter";
 
 actor Token {
 
-    var owner : Principal = Principal.fromText("my_principal id here");
+    var owner : Principal = Principal.fromText("shu3y-t65bi-rhvef-c7vvy-arrzh-emws6-g2uew-hpgh2-uvjqi-7s3b2-zae");
     var totalSupply : Nat = 1000000000;
     var symbol : Text = "DENC";
 
